@@ -51,4 +51,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pirate98&theme=dark&background=000000)](https://git.io/streak-stats)
 
+## 
+<img src="https://activity-graph.herokuapp.com/graph?username=devstar107&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirate98)](https://github.com/anuraghazra/github-readme-stats)
