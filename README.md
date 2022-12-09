@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=pirate98)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pirate98)](https://git.io/streak-stats)
 0)](https://git.io/streak-stats)
 
 ## 
