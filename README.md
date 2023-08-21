@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-elite-blue?style=flat&logo=Gmail&logoColor=white)](vova.dev1021@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-elite-blue?style=flat&logo=Gmail&logoColor=white)](benjiro.tan.dev@gmail.com)
 
 ---
 
