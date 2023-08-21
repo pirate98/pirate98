@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://t.me/elite_club11/">
+    <a href="https://t.me/topstanding1/">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://join.skype.com/invite/dsSv3l4fLwGV">
@@ -23,8 +23,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-elite-blue?style=flat&logo=Gmail&logoColor=white)](benjiro.tan.dev@gmail.com)
 
 ---
 
