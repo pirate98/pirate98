@@ -4,9 +4,6 @@
     <a href="https://t.me/aircraft_ben/">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://join.skype.com/invite/dsSv3l4fLwGV">
-      <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
-    </a>
   </div>
 </div>
 <div align="center">
